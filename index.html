@@ -20,6 +20,9 @@
     dl { display:grid; grid-template-columns:minmax(9rem,13rem) 1fr; gap:10px 24px; margin:18px 0; }
     dt { font-weight:700; }
     dd { margin:0; }
+    figure { margin:24px 0 8px; }
+    figure img { display:block; width:100%; height:auto; border:1px solid var(--line); }
+    figcaption { margin-top:10px; color:var(--muted); font-size:.9rem; }
     .note { padding:16px 18px; background:var(--wash); color:var(--muted); }
     footer { margin-top:44px; color:var(--muted); font-size:.88rem; }
     @media (max-width:640px) { main { margin:0 auto; border-width:0; } dl { grid-template-columns:1fr; gap:2px; } dd { margin-bottom:10px; } }
@@ -50,6 +53,12 @@
     </dl>
 
     <p class="note">共同策定計画の副分析は圏域の重複を含むため、順位相関を記述値として掲載している。本稿は交通供給から目標指標選択への因果効果を推定しない。</p>
+
+    <h2>共同策定圏域の分布</h2>
+    <figure>
+      <img src="regional-plan-clusters.png" alt="三つの指標群に割り当てた共同策定圏域の構成市町村を示す全国地図" width="2352" height="1042">
+      <figcaption>共同策定43圏域を、単独市町村計画から得た三群のうち最も近い群へ割り当てた。群1は17圏域・82市町村、群2は7圏域・47市町村、群3は19圏域・168市町村である。同じ市町村が異なる共同策定計画に参加する場合があるため、各群を別々の地図に示した。</figcaption>
+    </figure>
 
     <h2>データと方法</h2>
     <p>計画は国土交通省MOBILITY UPDATE PORTALから取得した。交通供給には2022年国土数値情報のバス停留所・鉄道データ、人口には2020年国勢調査250mメッシュを用いた。分析方法はWard法による階層的クラスター分析とSpearman順位相関である。計画資料の採否と指標分類には、新たな人手判定を加えていない。</p>
