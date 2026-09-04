@@ -34,3 +34,17 @@
 "nonstandard_excluding_population_coverage","bus500_rail1000",37,"implementation_progress","施策の実施進捗",0.0838998977102471,0.621518853771587,1
 "nonstandard_excluding_population_coverage","bus500_rail1000",37,"finance_resource_capacity","財務・資源・実施能力",0.41402583225183,0.0108514151917451,0.0759599063422154
 "nonstandard_excluding_population_coverage","bus500_rail1000",37,"external_condition","外部条件",0.183008810636046,0.278284954826831,1
+"nonoverlapping_all_indicators","bus500_rail1000",30,"human_social_state","人間・社会の状態",0.0824739137863785,0.664816418161791,1
+"nonoverlapping_all_indicators","bus500_rail1000",30,"accessibility_activity_opportunity","活動・機会へのアクセス",-0.400658731536505,0.0282284755116954,0.197599328581867
+"nonoverlapping_all_indicators","bus500_rail1000",30,"user_behavior_perception","利用者の行動・認識",-0.305700799264711,0.10041518981527,0.702906328706889
+"nonoverlapping_all_indicators","bus500_rail1000",30,"transport_service_state","交通サービスの状態",0.151368837290602,0.42459835219933,1
+"nonoverlapping_all_indicators","bus500_rail1000",30,"implementation_progress","施策の実施進捗",-0.181510192676624,0.337088405858109,1
+"nonoverlapping_all_indicators","bus500_rail1000",30,"finance_resource_capacity","財務・資源・実施能力",0.27562422117514,0.140417696279894,0.982923873959258
+"nonoverlapping_all_indicators","bus500_rail1000",30,"external_condition","外部条件",0.00102864886145444,0.995695651472626,1
+"nonoverlapping_nonstandard_indicators","bus500_rail1000",26,"human_social_state","人間・社会の状態",0.196919302182809,0.334946521145496,1
+"nonoverlapping_nonstandard_indicators","bus500_rail1000",26,"accessibility_activity_opportunity","活動・機会へのアクセス",-0.422311749392808,0.0316210060746096,0.221347042522268
+"nonoverlapping_nonstandard_indicators","bus500_rail1000",26,"user_behavior_perception","利用者の行動・認識",-0.442662188087078,0.0235382736781815,0.16476791574727
+"nonoverlapping_nonstandard_indicators","bus500_rail1000",26,"transport_service_state","交通サービスの状態",0.383466470129007,0.0531378179133939,0.371964725393758
+"nonoverlapping_nonstandard_indicators","bus500_rail1000",26,"implementation_progress","施策の実施進捗",-0.0141432130563468,0.945329541686203,1
+"nonoverlapping_nonstandard_indicators","bus500_rail1000",26,"finance_resource_capacity","財務・資源・実施能力",0.450289734532108,0.0209799951663725,0.146859966164608
+"nonoverlapping_nonstandard_indicators","bus500_rail1000",26,"external_condition","外部条件",0.00147920052326728,0.994278015786179,1
